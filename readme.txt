@@ -4,3 +4,5 @@ npm i -D nodemon
 npm run server
 
 npm i bootstrap reactstrap uuid react-transition-group
+
+deployed in heroku
